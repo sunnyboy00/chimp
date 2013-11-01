@@ -1,4 +1,4 @@
-Chimp
+Chimp [![Build Status](https://travis-ci.org/tadasv/chimp.png?branch=travis_integration)](https://travis-ci.org/tadasv/csv_parser)
 =====
 
 **This project is in a VERY early stage**
